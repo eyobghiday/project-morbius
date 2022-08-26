@@ -1,5 +1,5 @@
 # project-morbius
-MMAE-414 Aircraft Design for the AIAA based project at at Illinois Institute of Technology. 
+MMAE-414 Aircraft Design for the AIAA based project at Illinois Institute of Technology. 
 
 ## Overview
 The Morbin Boys are developing an aircraft for the AIAA annual aircraft competition. The IMT-22 "It's Mobrin Time 2022" is a long-range, high-altitude, Mach 1.2 strategic reconnaissance aircraft being developed by a team of four Aerospace students at IIT.
